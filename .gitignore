@@ -29,3 +29,5 @@ _build/
 deps/
 
 .idea
+
+.env
